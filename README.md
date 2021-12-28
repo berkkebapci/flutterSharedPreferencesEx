@@ -1,0 +1,2 @@
+# flutterSharedPreferencesEx
+Flutter Shared Preferences
